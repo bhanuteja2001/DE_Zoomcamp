@@ -136,3 +136,16 @@ airflow/logs/scheduler/2024-06-03/data_ingestion_local.py.log
 airflow/logs/scheduler/2024-06-04/data_ingestion_gcs_dag.py.log
 airflow/logs/scheduler/2024-06-04/data_ingestion_local.py.log
 google_credentials.json
+airflow/dags/__pycache__/gcs_to_bq_dag.cpython-36.pyc
+airflow/logs/gcs_2_bq_dag/bq_create_yellow_all_taxi_partitioned_table_task/2024-06-04T04:01:04.716985+00:00/1.log
+airflow/logs/gcs_2_bq_dag/bq_create_yellow_all_taxi_partitioned_table_task/2024-06-04T04:01:24.353360+00:00/1.log
+airflow/logs/gcs_2_bq_dag/bq_yellow_all_taxi_external_table_task/2024-06-03T00:00:00+00:00/1.log
+airflow/logs/gcs_2_bq_dag/bq_yellow_all_taxi_external_table_task/2024-06-03T00:00:00+00:00/2.log
+airflow/logs/gcs_2_bq_dag/bq_yellow_all_taxi_external_table_task/2024-06-04T03:56:28.125090+00:00/1.log
+airflow/logs/gcs_2_bq_dag/bq_yellow_all_taxi_external_table_task/2024-06-04T04:01:04.716985+00:00/1.log
+airflow/logs/gcs_2_bq_dag/bq_yellow_all_taxi_external_table_task/2024-06-04T04:01:24.353360+00:00/1.log
+airflow/logs/gcs_2_bq_dag/move_yellow_all_taxi_files_task/2024-06-03T00:00:00+00:00/1.log
+airflow/logs/gcs_2_bq_dag/move_yellow_all_taxi_files_task/2024-06-04T03:56:28.125090+00:00/1.log
+airflow/logs/gcs_2_bq_dag/move_yellow_all_taxi_files_task/2024-06-04T04:01:04.716985+00:00/1.log
+airflow/logs/gcs_2_bq_dag/move_yellow_all_taxi_files_task/2024-06-04T04:01:24.353360+00:00/1.log
+airflow/logs/scheduler/2024-06-04/gcs_to_bq_dag.py.log
