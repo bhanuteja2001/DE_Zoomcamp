@@ -1,6 +1,6 @@
 variable "credentials" {
   description = "My Credentials"
-  default     = "/workspaces/DE_Zoomcamp/dtc-de-425123-4bf9f6a3037e.json"
+  default     = "/workspaces/DE_Zoomcamp/google_credentials.json"
   #ex: if you have a directory where this file is called keys with your service account json file
   #saved there as my-creds.json you could use default = "./keys/my-creds.json"
 }
